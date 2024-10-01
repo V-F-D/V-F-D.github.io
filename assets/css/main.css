@@ -160,7 +160,7 @@ body {
 .developer-links{
     /* bottom of the sidebar */
     position: absolute;
-    bottom: 40px;
+    /*bottom: 40px;*/
     left: 20px;
     color: #fff;
     border: none;
