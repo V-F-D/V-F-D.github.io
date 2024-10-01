@@ -160,7 +160,7 @@ body {
 
 .developer-links {
     position: absolute; /* Keep this as absolute */
-    bottom: 20px; /* Use bottom property to position it */
+    bottom: 5vh; /* Use bottom property to position it */
     left: 20px; /* Align it with the sidebar */
     color: #fff;
     border: none;
