@@ -126,7 +126,7 @@ body {
     overflow-x: hidden;
 }
 
-#sidebarToggle{
+#sidebarToggle {
     font-size: 12px !important;
 }
 
@@ -153,20 +153,19 @@ body {
 .sidebar-links li:hover {
     background-color: #444;
 }
-.sidebar-links li i{
+
+.sidebar-links li i {
     font-size: 30px;
 }
 
-.developer-links{
-    /* bottom of the sidebar */
-    position: absolute;
-    /*bottom: 40px;*/
-    left: 20px;
+.developer-links {
+    position: absolute; /* Keep this as absolute */
+    bottom: 20px; /* Use bottom property to position it */
+    left: 20px; /* Align it with the sidebar */
     color: #fff;
     border: none;
     cursor: pointer;
 }
-
 .sidebar-close-button {
     position: absolute;
     bottom: 20px;
